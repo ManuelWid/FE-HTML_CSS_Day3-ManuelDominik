@@ -11,7 +11,7 @@ h1 {
     display: none;
 }
 
-#second * :not(img) {
+#second * {
     display: none;
 }
 

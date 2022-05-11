@@ -7,10 +7,10 @@ body {
     margin-right: 20px;
     background-color: lightgray;
     width: 300px;
-    overflow: hidden;
+    /* overflow: hidden; */
     padding: 25px;
     padding-top: 0;
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 ul {
