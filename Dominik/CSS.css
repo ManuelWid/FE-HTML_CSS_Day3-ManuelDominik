@@ -1,0 +1,19 @@
+/* div {
+    border: 1px solid gray;
+    margin: 5px;
+}
+#third >p {display: none;
+}
+h1 {display: none;
+}
+#second * {display:  none;
+}
+
+*{visibility: hidden;
+}
+img {visibility: visible;
+} */
+
+#first p {
+    font-size: 2em;
+}
