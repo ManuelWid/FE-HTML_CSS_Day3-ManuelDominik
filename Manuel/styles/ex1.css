@@ -1,0 +1,24 @@
+/* div {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+#third > p {
+    display: none;
+}
+
+h1 {
+    display: none;
+}
+
+#second * :not(img) {
+    display: none;
+}
+
+*{
+    visibility: hidden;
+}
+
+img{
+    visibility: visible;
+} */
